@@ -1,0 +1,16 @@
+﻿## RECSRecommendations Upload File,,,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,,
+## RECS,,,,,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.brand,entity.discountprice
+1,Regionale-servizi-LINK,Pay Monthly,,https://demosystem4.experiencecloud.adobe.com/content/dam/mac/demosystem4/trenitalia-ddesilvestri/trenitalia_Regionale-servizi-LINK.png,39.49,https://dsn.adobe.com/web/ddesilvestri-LJSN/offers,999,49,Trenitalia,36.99
+2,FR-Roma-Milano-02-24,Pay Monthly,,https://demosystem4.experiencecloud.adobe.com/content/dam/mac/demosystem4/trenitalia-ddesilvestri/trenitalia-FR-Roma-Milano-02-24.png,46.99,https://dsn.adobe.com/web/ddesilvestri-LJSN/offers,999,49,Trenitalia,39.99
+3,icn-04-24,Pay Monthly,,https://demosystem4.experiencecloud.adobe.com/content/dam/mac/demosystem4/trenitalia-ddesilvestri/trenitalia-icn-04-24.png,30.49,https://dsn.adobe.com/web/ddesilvestri-LJSN/offers,999,49,Trenitalia,29.99
+4,IC-Social-03-24,Pay Monthly,,https://demosystem4.experiencecloud.adobe.com/content/dam/mac/demosystem4/trenitalia-ddesilvestri/trenitalia-IC-Social-03-24.png,22.99,https://dsn.adobe.com/web/ddesilvestri-LJSN/offers,999,49,Trenitalia,21.99
+5,interruzioni-weekend-04-04,Pay Monthly,,https://demosystem4.experiencecloud.adobe.com/content/dam/mac/demosystem4/trenitalia-ddesilvestri/trenitalia-interruzioni-weekend-04-04.png,38.99,https://dsn.adobe.com/web/ddesilvestri-LJSN/offers,999,49,Trenitalia,32.99
+6,MediopadanaLink-02-24-02,Pay Monthly,,https://demosystem4.experiencecloud.adobe.com/content/dam/mac/demosystem4/trenitalia-ddesilvestri/trenitalia-MediopadanaLink-02-24-02.png,32.49,https://dsn.adobe.com/web/ddesilvestri-LJSN/offers,999,49,Trenitalia,25.99
+7,Regionale-collegamento-Aeroporti,Pay Monthly,,https://demosystem4.experiencecloud.adobe.com/content/dam/mac/demosystem4/trenitalia-ddesilvestri/trenitalia-Regionale-collegamento-Aeroporti.png,30.49,https://dsn.adobe.com/web/ddesilvestri-LJSN/offers,999,49,Trenitalia,25.99
+8,REG-ITALIA-IN-TOUR-02-24,Pay Monthly,,https://demosystem4.experiencecloud.adobe.com/content/dam/mac/demosystem4/trenitalia-ddesilvestri/trenitalia-REG-ITALIA-IN-TOUR-02-24.png,24.99,https://dsn.adobe.com/web/ddesilvestri-LJSN/offers,999,49,Trenitalia,19.99
+9,Una-Nessuna-Centomila-Arena-04-24,Pay Monthly,,https://demosystem4.experiencecloud.adobe.com/content/dam/mac/demosystem4/trenitalia-ddesilvestri/trenitalia-Una-Nessuna-Centomila-Arena-04-24.png,46.99,https://dsn.adobe.com/web/ddesilvestri-LJSN/offers,999,49,Trenitalia,39.99
