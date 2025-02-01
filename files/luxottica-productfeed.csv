@@ -1,0 +1,15 @@
+﻿## RECSRecommendations Upload File,,,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,,
+## RECS,,,,,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.brand,entity.discountprice
+lx01,Coach,Pay Monthly,,https://demoemea.experiencecloud.adobe.com/content/dam/mac/demoemea/ddesilvestri/luxottica/luxottica-product-01.png,350,https://www.lenscrafters.com/lc-us/sunglasses,999,49,Luxottica,350
+lx02,RayBan,Pay Monthly,,https://demoemea.experiencecloud.adobe.com/content/dam/mac/demoemea/ddesilvestri/luxottica/luxottica-product-02.png,350,https://www.lenscrafters.com/lc-us/sunglasses,999,49,Luxottica,350
+lx03,Prada,Pay Monthly,,https://demoemea.experiencecloud.adobe.com/content/dam/mac/demoemea/ddesilvestri/luxottica/luxottica-product-03.png,350,https://www.lenscrafters.com/lc-us/sunglasses,999,49,Luxottica,350
+lx04,Moncler,Pay Monthly,,https://demoemea.experiencecloud.adobe.com/content/dam/mac/demoemea/ddesilvestri/luxottica/luxottica-product-04.png,350,https://www.lenscrafters.com/lc-us/sunglasses,999,49,Luxottica,350
+lx05,Versace-Black,Pay Monthly,,https://demoemea.experiencecloud.adobe.com/content/dam/mac/demoemea/ddesilvestri/luxottica/luxottica-product-05.png,350,https://www.lenscrafters.com/lc-us/sunglasses,999,49,Luxottica,350
+lx06,Tory Burch,Pay Monthly,,https://demoemea.experiencecloud.adobe.com/content/dam/mac/demoemea/ddesilvestri/luxottica/luxottica-product-06.png,350,https://www.lenscrafters.com/lc-us/sunglasses,999,49,Luxottica,350
+lx07,Oliver Peoples,Pay Monthly,,https://demoemea.experiencecloud.adobe.com/content/dam/mac/demoemea/ddesilvestri/luxottica/luxottica-product-07.png,350,https://www.lenscrafters.com/lc-us/sunglasses,999,49,Luxottica,350
+lx08,Versace-Havana,Pay Monthly,,https://demoemea.experiencecloud.adobe.com/content/dam/mac/demoemea/ddesilvestri/luxottica/luxottica-product-08.png,350,https://www.lenscrafters.com/lc-us/sunglasses,999,49,Luxottica,350
